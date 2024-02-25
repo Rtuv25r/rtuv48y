@@ -20,13 +20,7 @@ textColor = '#FFFFFF'
 font = "sans serif"
 
 
-# Set the theme to "dark" and customize the colors
-st.set_page_config(layout="wide", page_title="My Streamlit App", theme="dark", primaryColor="red")
-
-# Add your Streamlit app code here
-st.title("My Streamlit App")
-st.write("This is a Streamlit app.")
-
+st.set_page_config(page_title="My webpage", page_icon=":tada:", layout="wide")
 
 
 
