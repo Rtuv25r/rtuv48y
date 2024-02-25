@@ -56,4 +56,4 @@ with st.container():
   st.header("My Projects")
   st.write("##")
   image_column, text_column = st.columns((1, 2))
-  st.markdown('<iframe width="560" height="315" src="https://www.youtube.com/embed/ljISoc0kjTo?feature=shared" frameborder="0" allowfullscreen></iframe>', unsafe_allow_html=True
+  st.markdown('<iframe width="560" height="315" src="https://www.youtube.com/embed/ljISoc0kjTo?feature=shared" frameborder="0" allowfullscreen></iframe>', unsafe_allow_html=True)
