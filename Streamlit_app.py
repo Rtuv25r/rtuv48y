@@ -58,13 +58,36 @@ with st.container():
   st.write("##")
   image_column, text_column = st.columns((1, 2))
   st.markdown('<iframe width="560" height="315" src="https://www.youtube.com/embed/ljISoc0kjTo?feature=shared" frameborder="0" allowfullscreen></iframe>', unsafe_allow_html=True)
+
+
 with st.container():
   st.write("###")
   st.header("###")
-  st.write("##")
-  image_column, text_column= st.column((1,2))
-  st.markdown('<iframe width="560" height= "315"
-src="https://www.youtube.com/embed/u6An_MIzdmk?si=Uzdv_j_ozEDB6pz-"
-title="YouTube video player" frameborder="0" allow="accelerometer;
-autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;
-web-share" allowfullscreen></iframe>',unsafe_allow_html=True)
+  st.write("###")
+  image_column, text_column = st.columns((1, 2,))
+  st.markdown('<iframe width="560" height="315" src="https://www.youtube.com/embed/u6An_MIzdmk?si=Uzdv_j_ozEDB6pz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>', unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
