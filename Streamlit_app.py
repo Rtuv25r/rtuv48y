@@ -19,7 +19,7 @@ textColor = '#FFFFFF'
 # Default: "sans serif"
 font = "sans serif"
 
-st.set_page_config(page_title="My webpage", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="My webpage", page_icon=":tada:", layout="wide",theme="dark", primaryColor="red")
 
 
 
